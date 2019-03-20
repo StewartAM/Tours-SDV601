@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Stewarts Travel.exe" version="1.0.0.0" publicKeyToken="30b45d6f0aa04bdc" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Stewarts Travel" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Stewarts Travel.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Stewarts Travel.exe" size="472040">
+      <assemblyIdentity name="Stewarts Travel" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>BrVhU7wXQAIQhstcVa+EVPogD5r5TwJU5CMHETUi0Ng=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Stewarts Travel.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-STEWART\Stewart" issuerKeyHash="2e8ed3f87ab8fb8b86e042b5820e79b65b9a3a5d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Z+MwC3N7NPVTMEivv/LLZE6o7UzKtl+S/F6e1uzFn3s=</DigestValue></Reference></SignedInfo><SignatureValue>gcBpluw5HwzLuyt/L6vfcL3EhIrG3zTTR8+kUj6mvKTcK1e/KcGPCOGjsJf1WtfmnnCZYP4ThaSCeAoevL7kTWBEwBX+5S/eHjbCSq5t6ig9unHTenhRY/mu11CBL5AZMRLMgsfL+cOs37wWTlgnxj4/KaCfGIwhHhJLslmC+qs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sBXdpVastcvtQjBDcoT0xu+y86RdLE+QSaNkQK3Nno1qOem1WIjtn/UFoAMO5Zm8X6Nljzzo2ZQL5FtFESBdQ8QDu4Td5F852w1IxRxgi16ShfKBwsQbxNpxPgN0CjIAPUlybYDWAdQNdqCob564/HohySMr9Sxyk4sCm/UCcnU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7b9fc5ecd69e5efc925fb6ca4ceda84e64cbf2bfaf483053f5347b730b30e367" Description="" Url=""><as:assemblyIdentity name="Stewarts Travel.exe" version="1.0.0.0" publicKeyToken="30b45d6f0aa04bdc" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-STEWART\Stewart</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>9K3QSTIJukTrsniFw1bhvdGM7+OfoQxcVFQmiNG9phI=</DigestValue></Reference></SignedInfo><SignatureValue>SYENHzzYMu4pDI1XL9jdWbfePy7FpBH0zd5kChv5cxWJf3m0vW5G4Ajtohk0YQJo7U22jQ0G14Z7MtAb+7LaTGl24Q+XjEJ1k6KXDzLxW9t1PO70PFwWfpema8EliljtnSrN/L3/bfmyUlKMQo/04vf8ZwKx1aREV4s6bFwap94=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sBXdpVastcvtQjBDcoT0xu+y86RdLE+QSaNkQK3Nno1qOem1WIjtn/UFoAMO5Zm8X6Nljzzo2ZQL5FtFESBdQ8QDu4Td5F852w1IxRxgi16ShfKBwsQbxNpxPgN0CjIAPUlybYDWAdQNdqCob564/HohySMr9Sxyk4sCm/UCcnU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQPHe7NZHJeI1IgsUjiMbJmDANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwATABBAFAAVABPAFAALQBTAFQARQBXAEEAUgBUAFwAUwB0AGUAdwBhAHIAdDAeFw0xOTAzMjAyMjI2NTZaFw0yMDAzMjAwNDI2NTZaMDcxNTAzBgNVBAMeLABMAEEAUABUAE8AUAAtAFMAVABFAFcAQQBSAFQAXABTAHQAZQB3AGEAcgB0MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwFd2lVqy1y+1CMENyhPTG77LzpF0sT5BJo2RArc2ejWo56bVYiO2f9QWgAw7lmbxfo2WPPOjZlAvkW0URIF1DxAO7hN3kXznbDUjFHGCLXpKF8oHCxBvE2nE+A3QKMgA9SXJtgNYB1A12oKhvnrj8eiHJIyv1LHKTiwKb9QJydQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBACjlu4PJKz9A8/sOM2ed6lYGwdViwXbuTYTM49xQLYM/7zNn4PfSFEM/t2QBGxAYqg+BcQQD6HnV5HqA6WJ6d59SiJm/SzGpfpJba3etqwKR/pRGdbLMDepxhuhnkJySFg2qHY4FbLy2LOHMRd4drShx7hxuMAbDfz3nFFocgyuw</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

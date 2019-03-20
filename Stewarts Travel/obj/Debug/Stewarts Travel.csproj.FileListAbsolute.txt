@@ -1,0 +1,19 @@
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\bin\Debug\Stewarts Travel.exe.config
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\obj\Debug\Stewarts Travel.csprojResolveAssemblyReference.cache
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\obj\Debug\Stewarts_Travel.FrmMain.resources
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\obj\Debug\Stewarts_Travel.Properties.Resources.resources
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\obj\Debug\Stewarts Travel.csproj.GenerateResource.Cache
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\bin\Debug\Stewarts Travel.exe
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\bin\Debug\Stewarts Travel.pdb
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\obj\Debug\Stewarts Travel.exe
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\obj\Debug\Stewarts Travel.pdb
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\obj\Debug\Stewarts_Travel.FrmCosts.resources
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\obj\Debug\Stewarts_Travel.FrmVehicleCosts.resources
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\obj\Debug\Stewarts_Travel.FrmOtherCosts.resources
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\obj\Debug\Stewarts_Travel.FrmStaffCosts.resources
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\obj\Debug\Stewarts_Travel.FrmCostsList.resources
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\obj\Debug\Stewarts_Travel.FrmTour.resources
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\bin\Debug\Stewarts Travel.exe.manifest
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\bin\Debug\Stewarts Travel.application
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\obj\Debug\Stewarts Travel.exe.manifest
+C:\Users\Stewart\Documents\2018 First Semester\SDV601\Projects\Stewarts Travel\Stewarts Travel\obj\Debug\Stewarts Travel.application
